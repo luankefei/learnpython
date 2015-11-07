@@ -1,4 +1,5 @@
-import ex25
+from the_hard_way import ex25
+
 
 def break_words(stuff):
     """This function will break up words for us."""
